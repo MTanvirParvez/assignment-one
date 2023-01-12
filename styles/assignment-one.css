@@ -37,3 +37,30 @@
     border: none;
 }
 
+.mfpy{
+    display: flex;
+    gap: 87px;
+    margin: 130px 130px 0 130px;
+    align-items: center;
+}
+.mf-title  {
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 24px;
+    padding-right: 322px;
+}
+.mf-s-title{
+    color: #444343;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 16px;
+    padding-right: 322px;
+}
+.mfd{
+    color: #444343;
+    font-weight: 400;
+    font-size: 16px;
+    padding-right: 322px;
+}
+
