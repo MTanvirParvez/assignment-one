@@ -132,5 +132,47 @@
     padding-left: 60px;
 }
 
+.contacts {
+    background-size: cover;
+    display: flex;
+    gap: 331px;
+    background-color: #151414;
+    padding: 130px 230px;
+}
 
+.cs-title {
+    color: #F8F8F8;
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 16px;
+}
+
+.con-des, .mail, .phn {
+    color: #FFFFFF;
+    margin-bottom: 16px;
+}
+
+.scrib {
+    color: #F8F8F8;
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 30px;
+}
+
+input {
+    font-size: 18px;
+    height: 60px;
+    font-weight: 400;
+    
+}
+
+input[type=mail] 
+{
+    padding: 15px 45px;
+    border: 5px white;
+    margin-bottom: 16px;
+    background-color: rgb(0, 0, 0);
+    color: #fffafa;
+    
+}
 
